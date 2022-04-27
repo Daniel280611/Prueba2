@@ -8,37 +8,37 @@
     "orientation": "portrait",
     "icons": [
         {
-            "src": "assets/icons/icons 72x72.jpg",
+            "src": "assets/icons/icons72x72.jpg",
             "type": "image/jpg",
             "sizes": "72x72"
         },
         {
-            "src": "assets/icons/icons 96x 96.jpg",
+            "src": "assets/icons/icons96x96.jpg",
             "type": "image/jpg",
             "sizes": "96x96"
         },
         {
-            "src": "assets/icons/icons 128x 128.jpg",
+            "src": "assets/icons/icons128x128.jpg",
             "type": "image/jpg",
             "sizes": "128x128"
         },
         {
-            "src": "assets/icons/icons 144x 144.jpg",
+            "src": "assets/icons/icons144x144.jpg",
             "type": "image/jpg",
             "sizes": "144x144"
         },
         {
-            "src": "assets/icons/icons 192x 192.jpg",
+            "src": "assets/icons/icons192x192.jpg",
             "type": "image/jpg",
             "sizes": "192x192"
         },
         {
-            "src": "assets/icons/icons 384x 384.jpg",
+            "src": "assets/icons/icons384x384.jpg",
             "type": "image/jpg",
             "sizes": "384x384"
         },
         {
-            "src": "assets/icons/icons 512x 512.jpg",
+            "src": "assets/icons/icons512x512.jpg",
             "type": "image/jpg",
             "sizes": "512x512"
         }
