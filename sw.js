@@ -1,3 +1,5 @@
-self.addEventListener('fetch', event => {
-    event.responWith(fetch(event.resquet));
-});
+
+// self.addEventListener('fetch', event => {
+   // event.responWith(fetch(event.resquet));
+    
+//});
