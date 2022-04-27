@@ -13,8 +13,8 @@
             "sizes": "72x72"
         },
         {
-            "src": "assets/icons/icons96x96.png",
-            "type": "image/png",
+            "src": "assets/icons/icons96x96.jpg",
+            "type": "image/jpg",
             "sizes": "96x96"
         },
         {
@@ -23,8 +23,8 @@
             "sizes": "128x128"
         },
         {
-            "src": "assets/icons/icons144x144.jpg",
-            "type": "image/jpg",
+            "src": "assets/icons/icons144_144.png",
+            "type": "image/png",
             "sizes": "144x144"
         },
         {
