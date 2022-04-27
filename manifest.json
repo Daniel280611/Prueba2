@@ -8,18 +8,18 @@
     "orientation": "portrait",
     "icons": [
         {
-            "src": "assets/icons/icons72x72.jpg",
-            "type": "image/jpg",
+            "src": "assets/icons/icon-72x72.png",
+            "type": "image/png",
             "sizes": "72x72"
         },
         {
-            "src": "assets/icons/icons96x96.jpg",
-            "type": "image/jpg",
+            "src": "assets/icons/icon-96x96.png",
+            "type": "image/png",
             "sizes": "96x96"
         },
         {
-            "src": "assets/icons/icons128x128.jpg",
-            "type": "image/jpg",
+            "src": "assets/icons/icon-128x128.png",
+            "type": "image/png",
             "sizes": "128x128"
         },
         {
@@ -30,18 +30,18 @@
             
         },
         {
-            "src": "assets/icons/icons192x192.jpg",
-            "type": "image/jpg",
+            "src": "assets/icons/icon-192x192.png",
+            "type": "image/png",
             "sizes": "192x192"
         },
         {
-            "src": "assets/icons/icons384x384.jpg",
-            "type": "image/jpg",
+            "src": "assets/icons/icon-384x384.png.jpg",
+            "type": "image/png",
             "sizes": "384x384"
         },
         {
-            "src": "assets/icons/icons512x512.jpg",
-            "type": "image/jpg",
+            "src": "assets/icons/icon-512x512.png",
+            "type": "image/png",
             "sizes": "512x512"
         }
     ]
